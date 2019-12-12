@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zegarra | Carla Moreno</title>
+    <link>https://Carla-Moreno.github.io/authors/zegarra/</link>
+      <atom:link href="https://Carla-Moreno.github.io/authors/zegarra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zegarra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Carla-Moreno.github.io/img/icon-192.png</url>
+      <title>Zegarra</title>
+      <link>https://Carla-Moreno.github.io/authors/zegarra/</link>
+    </image>
+    
+    <item>
+      <title>La desestructuración del sistema peruano de pensiones</title>
+      <link>https://Carla-Moreno.github.io/publication/digital-1/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/publication/digital-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El Porvenir de la Vejez: Demografia, Empleo y Ahorro</title>
+      <link>https://Carla-Moreno.github.io/publication/book-1/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/publication/book-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

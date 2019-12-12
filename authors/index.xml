@@ -1,24 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Carla Moreno</title>
+    <link>https://Carla-Moreno.github.io/authors/</link>
+      <atom:link href="https://Carla-Moreno.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://Carla-Moreno.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://Carla-Moreno.github.io/authors/</link>
     </image>
     
     <item>
+      <title>B.</title>
+      <link>https://Carla-Moreno.github.io/authors/b./</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C.</title>
+      <link>https://Carla-Moreno.github.io/authors/c./</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F.</title>
+      <link>https://Carla-Moreno.github.io/authors/f./</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leiva</title>
+      <link>https://Carla-Moreno.github.io/authors/leiva/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/leiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A.</title>
+      <link>https://Carla-Moreno.github.io/authors/m.a./</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/m.a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A.C.</title>
+      <link>https://Carla-Moreno.github.io/authors/m.a.c./</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/m.a.c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moreno</title>
+      <link>https://Carla-Moreno.github.io/authors/moreno/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/moreno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saco</title>
+      <link>https://Carla-Moreno.github.io/authors/saco/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/saco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminario</title>
+      <link>https://Carla-Moreno.github.io/authors/seminario/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/seminario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zegarra</title>
+      <link>https://Carla-Moreno.github.io/authors/zegarra/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/zegarra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://Carla-Moreno.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <guid>https://Carla-Moreno.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;My research interests include Macroeconomics, Labor Economics, Social Security Systems and Pensions.&lt;/p&gt;
 </description>
     </item>
     

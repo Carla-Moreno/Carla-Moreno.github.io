@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Academic</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publication_types | Carla Moreno</title>
+    <link>https://Carla-Moreno.github.io/publication_types/</link>
+      <atom:link href="https://Carla-Moreno.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://Carla-Moreno.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <link>https://Carla-Moreno.github.io/publication_types/</link>
     </image>
+    
+    <item>
+      <title>4</title>
+      <link>https://Carla-Moreno.github.io/publication_types/4/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://Carla-Moreno.github.io/publication_types/5/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/publication_types/5/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
