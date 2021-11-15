@@ -5,12 +5,20 @@
     <link>https://Carla-Moreno.github.io/authors/</link>
       <atom:link href="https://Carla-Moreno.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Carla-Moreno.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://Carla-Moreno.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Carla Moreno</title>
+      <link>https://Carla-Moreno.github.io/authors/carla-moreno/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/carla-moreno/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>B.</title>
@@ -97,7 +105,7 @@
       <link>https://Carla-Moreno.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Carla-Moreno.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;My research interests include Macroeconomics, Labor Economics, Social Security Systems and Pensions.&lt;/p&gt;
+      <description>&lt;p&gt;Economics Ph.D. candidate at Emory University and research assistant in the Americas Center at the Federal Reserve Bank of Atlanta. My research agenda covers retirement, social security systems and labor informality. My current work is on Latin American economies.&lt;/p&gt;
 </description>
     </item>
     
