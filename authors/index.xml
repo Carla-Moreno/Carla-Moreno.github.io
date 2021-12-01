@@ -5,7 +5,7 @@
     <link>https://Carla-Moreno.github.io/authors/</link>
       <atom:link href="https://Carla-Moreno.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 10:18:21 -0500</lastBuildDate>
     <image>
       <url>https://Carla-Moreno.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Aliaksandr Zaretski</title>
+      <link>https://Carla-Moreno.github.io/authors/aliaksandr-zaretski/</link>
+      <pubDate>Wed, 01 Dec 2021 10:18:21 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/aliaksandr-zaretski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carla Moreno</title>
       <link>https://Carla-Moreno.github.io/authors/carla-moreno/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 10:18:21 -0500</pubDate>
       <guid>https://Carla-Moreno.github.io/authors/carla-moreno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmelo Mesa-Lago</title>
+      <link>https://Carla-Moreno.github.io/authors/carmelo-mesa-lago/</link>
+      <pubDate>Wed, 01 Dec 2021 09:27:02 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/carmelo-mesa-lago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Kay</title>
+      <link>https://Carla-Moreno.github.io/authors/stephen-kay/</link>
+      <pubDate>Wed, 01 Dec 2021 09:27:02 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/authors/stephen-kay/</guid>
       <description></description>
     </item>
     
