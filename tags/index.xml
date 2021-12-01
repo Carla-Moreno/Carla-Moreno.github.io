@@ -5,12 +5,36 @@
     <link>https://Carla-Moreno.github.io/tags/</link>
       <atom:link href="https://Carla-Moreno.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 09:27:02 -0500</lastBuildDate>
     <image>
       <url>https://Carla-Moreno.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://Carla-Moreno.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Latin America</title>
+      <link>https://Carla-Moreno.github.io/tags/latin-america/</link>
+      <pubDate>Wed, 01 Dec 2021 09:27:02 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/tags/latin-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pensions</title>
+      <link>https://Carla-Moreno.github.io/tags/pensions/</link>
+      <pubDate>Wed, 01 Dec 2021 09:27:02 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/tags/pensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Security</title>
+      <link>https://Carla-Moreno.github.io/tags/social-security/</link>
+      <pubDate>Wed, 01 Dec 2021 09:27:02 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/tags/social-security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mandatory savings, informality, liquidity constraints</title>
