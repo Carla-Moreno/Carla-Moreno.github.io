@@ -5,12 +5,28 @@
     <link>https://Carla-Moreno.github.io/publication/</link>
       <atom:link href="https://Carla-Moreno.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 10:18:21 -0500</lastBuildDate>
     <image>
       <url>https://Carla-Moreno.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://Carla-Moreno.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Collateral constraints and the informal economy</title>
+      <link>https://Carla-Moreno.github.io/publication/financial-constraint/</link>
+      <pubDate>Wed, 01 Dec 2021 10:18:21 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/publication/financial-constraint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> (Forthcoming) Financial Sustainability of Public Pensions in Cuba: The Impact of Aging, Structural Reforms, and the Economic Crisis</title>
+      <link>https://Carla-Moreno.github.io/publication/cuba-issr/</link>
+      <pubDate>Wed, 01 Dec 2021 09:27:02 -0500</pubDate>
+      <guid>https://Carla-Moreno.github.io/publication/cuba-issr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mandatory savings, informality and liquidity constraints</title>
